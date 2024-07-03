@@ -1,2 +1,2 @@
 # docker_compose
-trying to push
+wordpress and mysql docker compose file
